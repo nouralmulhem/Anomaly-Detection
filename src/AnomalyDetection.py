@@ -42,8 +42,13 @@ if __name__ == "__main__":
         default='hotelling',
         help="Choose the algorithm to run."
     )
+    parser.add_argument(
+        '--plot',
+        action='store_true',
+        help="Set this flag to plot the results."
+    )
     
     args = parser.parse_args()
     X = df['values'].tolist()
     
-    run(X, algo=args.algo, plot=True)
+    run(X, algo=args.algo, plot=args.plot)
