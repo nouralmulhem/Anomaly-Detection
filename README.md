@@ -103,6 +103,19 @@ python path/to/StreamingV2.py
 
 <hr style="background-color: #4b4c60"></hr>
 
+<a id ="References"></a>
+
+## <img  align="center" width= 40px height =55px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnI2ZGR1dXVnM2VpdGpzZ3pydWJwYTF4cTVzYmppdGFiNGsyNmJ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z5HWPHECnylZeYOZ6U/giphy.gif"> References
+
+
+| Name       | Link                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| ` Adversarially Learned Anomaly Detection`     | https://arxiv.org/abs/1812.02288 |
+| `How to use Python for anomaly detection in data: Detailed Steps`         | https://dataheadhunters.com/academy/how-to-use-python-for-anomaly-detection-in-data-detailed-steps/ |
+| `Anomaly Detection`      | https://avinetworks.com/glossary/anomaly-detection/#:~:text=Anomaly%20detection%20is%20the%20identification,noise%2C%20novelties%2C%20and%20exceptions.
+
+<br/>
+<hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
