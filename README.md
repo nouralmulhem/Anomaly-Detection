@@ -110,9 +110,9 @@ python path/to/StreamingV2.py
 
 | Name       | Link                                                                 |
 |-----------------|--------------------------------------------------------------------------|
-| ` Adversarially Learned Anomaly Detection`     | https://arxiv.org/abs/1812.02288 |
-| `How to use Python for anomaly detection in data: Detailed Steps`         | https://dataheadhunters.com/academy/how-to-use-python-for-anomaly-detection-in-data-detailed-steps/ |
-| `Anomaly Detection`      | https://avinetworks.com/glossary/anomaly-detection/#:~:text=Anomaly%20detection%20is%20the%20identification,noise%2C%20novelties%2C%20and%20exceptions.
+| ` Adversarially Learned Anomaly Detection`     | [Link](https://arxiv.org/abs/1812.02288) |
+| `How to use Python for anomaly detection in data: Detailed Steps`         | [Link](https://dataheadhunters.com/academy/how-to-use-python-for-anomaly-detection-in-data-detailed-steps/) |
+| `Anomaly Detection`      | [Link](https://avinetworks.com/glossary/anomaly-detection/#:~:text=Anomaly%20detection%20is%20the%20identification,noise%2C%20novelties%2C%20and%20exceptions.) |
 
 <br/>
 <hr style="background-color: #4b4c60"></hr>
