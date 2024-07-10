@@ -1,0 +1,8 @@
+jupyterthemes
+matplotlib
+numpy
+pandas
+scikit_learn
+scipy
+timesynth
+git+https://github.com/TimeSynth/TimeSynth.git
