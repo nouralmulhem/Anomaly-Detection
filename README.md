@@ -15,6 +15,9 @@
     <br>
 </p>
 
+<hr style="background-color: #4b4c60"></hr>
+
+
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
 
 <ul>
@@ -27,6 +30,9 @@
 </ul>
 </li>
 </ul>
+
+<hr style="background-color: #4b4c60"></hr>
+
 <a id = "Started"></a>
 
 ## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> How To Run
