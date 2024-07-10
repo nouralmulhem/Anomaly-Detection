@@ -40,19 +40,16 @@ pip install -r requirements.txt
 - Folder Structure
 
 ```sh
-├─── data
-├─── Documentation
-│   ├── API Documentation.pdf
-│   ├── Hackathon General Documentation.pdf
-│   └─── Riddles Documentation.pdf
-├─── Eagle
-│   ├── eagle.py
-│   ├── Eagle_submission_script.ipynb
-│   ├── BiLstm_code.ipynb
-│   └─── GRU_code.ipynb
-├─── Solvers
-│   ├─── fox_submission_solver.py
-│   └─── eagle_submission_solver.py
+├─── images
+├─── src
+│   ├── model
+│     └─── autoencoder_model.h5
+│   ├── RNN
+│     ├── RNN.ipynb
+│     └─── utile.py
+│   ├── AnomalyDetection.py
+│   ├── Hotelling.py
+│   └─── Streaming.py
 ....
 ```
 
